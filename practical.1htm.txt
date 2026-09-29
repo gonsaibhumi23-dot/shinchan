@@ -1,0 +1,17 @@
+<html>
+<;doctype html>
+           
+        <title>html from example <title 
+</head>
+</doby>
+<h1> student Registration form </h1>
+<hr>
+
+<form>
+     <labe for="name"> Full name:</labl><br>
+     <input type="text" id ="name" name="name"><br><br>
+
+     <label for="email"> Email Address:</label><br>
+     <input type="email"id=emil"name="emil"><br><br>
+      
+     < 
