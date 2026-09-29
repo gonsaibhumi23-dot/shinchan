@@ -13,5 +13,8 @@
 
      <label for="email"> Email Address:</label><br>
      <input type="email"id=emil"name="emil"><br><br>
-      
-     < 
+      </hr>
+</h2>
+<h3>hello shinchan</h3>
+</form>
+</html>
